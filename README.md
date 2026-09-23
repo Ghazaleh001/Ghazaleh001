@@ -39,6 +39,18 @@
 
 ---
 
+<!-- 📊 GitHub Contributions -->
+<h2 align="center">
+  <img src="https://img.shields.io/badge/-GitHub%20Contributions-007BFF?style=for-the-badge" />
+</h2>
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghazaleh001&theme=dark&background=00000000&stroke=007BFF&ring=007BFF&fire=007BFF&currStreakLabel=007BFF&sideLabels=007BFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 <!-- 🔗 Connect With Me -->
 <h2 align="center">
   <img src="https://img.shields.io/badge/-Connect%20With%20Me-007BFF?style=for-the-badge" />
