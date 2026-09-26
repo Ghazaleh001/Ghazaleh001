@@ -17,9 +17,7 @@
 <p align="center">
   - 🫐 I'm a .NET Developer
 </p>
-<p align="center">
-  - 🫐 Interested In DevOps Engineering 
-</p>
+
 <br clear="both"/>
 
 ---
